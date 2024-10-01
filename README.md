@@ -51,6 +51,4 @@ A fully-functional Todo application built using **Python** 🐍, **FastAPI** ⚡
 2. **Update Database Credentials** 🔐:
    - Open the `config.py` file and update your MySQL database credentials (username, password, host, port, and database name) according to your local MySQL setup.
 
----
 
-Let me know if you need any further modifications or additional instructions!
